@@ -6,6 +6,10 @@
 - Project 4
 - Project 5
 
+## Documentation
+
+For detailed solution design, data design, technical assumptions, technical caveats, wireframes, errors and exceptions, and environment details, please refer to the documentation () file.
+
 ## Branching Strategy
 The branching strategy for each project repository will be as follows:
 
