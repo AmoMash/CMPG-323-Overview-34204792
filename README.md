@@ -1,18 +1,21 @@
 # CMPG-323-Overview---34204792
 ## Repositories
-- Project 1 Repository
-- Project 2 Repository
-- Project 3 Repository
-- Project 4 Repository
-- Project 5 Repository
+- Project 1
+- Project 2
+- Project 3
+- Project 4
+- Project 5
 
 ## Branching Strategy
 The branching strategy for each project repository will be as follows:
 
 - **main branch:** This branch contains the stable and production-ready code. All new features and fixes are merged into this branch after thorough testing.
 - **feature branches:** These branches are used for developing new features.
-- **bugfix branches:** These branches are used for fixing bugs in the codebase
+- **bugfix branches:** These branches are used for fixing bugs in the codebase.
 - **release branches:** These branches are used for preparing a new production release.
 
 ## .gitignore Usage
-The `.gitignore` file is used to exclude files and directories that do not need to be tracked by Git. This helps keep the repository clean and reduces unnecessary clutter.
+- Use `.gitignore` to exclude build files and environment files.
+
+## Storing Credentials and Sensitive Information
+- Use environment variables to store sensitive information.
