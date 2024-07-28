@@ -1,4 +1,4 @@
-# CMPG-323-Overview---34204792
+# CMPG-323-Overview-34204792
 ## Repositories
 - Project 1
 - Project 2
