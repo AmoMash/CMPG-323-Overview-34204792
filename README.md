@@ -11,7 +11,7 @@
 For detailed solution design, data design, technical assumptions, technical caveats, wireframes, errors and exceptions, and environment details, please refer to the documentation [https://github.com/AmoMash/CMPG-323-Overview-34204792/blob/main/Documentation.docx] file.
 
 ## Burndown Chart
-Here is the link to view the Burndown chart [BurndownChart.xlsx]
+Here is the link to view the Burndown chart [[BurndownChart.xlsx](https://github.com/AmoMash/CMPG-323-Overview-34204792/blob/main/BurndownChart.xlsx)]
 
 ## Branching Strategy
 The branching strategy for each project repository will be as follows:
