@@ -8,7 +8,7 @@
 
 ## Documentation
 
-For detailed solution design, data design, technical assumptions, technical caveats, wireframes, errors and exceptions, and environment details, please refer to the documentation [Documentation.docx] file.
+For detailed solution design, data design, technical assumptions, technical caveats, wireframes, errors and exceptions, and environment details, please refer to the documentation Documentation.docx file.
 
 ## Burndown Chart
 Here is the link to view the Burndown chart [BurndownChart.xlsx]
