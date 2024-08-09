@@ -1,7 +1,7 @@
 # CMPG-323-Overview-34204792
 ## Repositories
 - Project 1 [https://github.com/users/AmoMash/projects/2]
-- Project 2 [https://classroom.github.com/a/290U_JNB]
+- Project 2 [https://github.com/AmoMash/CMPG-323-Project-2-34204792]
 - Project 3 [https://github.com/AmoMash/CMPG-323-Project-3-34204792]
 - Project 4 [https://github.com/AmoMash/CMPG-323-Project-4-34204792]
 - Project 5 [https://github.com/AmoMash/CMPG-323-Project-5-34204792]
