@@ -3,7 +3,7 @@
 - Project 1 [https://github.com/users/AmoMash/projects/2]
 - Project 2 [https://classroom.github.com/a/290U_JNB]
 - Project 3 [https://classroom.github.com/a/QXrtxkgI]
-- Project 4 [https://classroom.github.com/a/RIr5Co8]
+- Project 4 [https://github.com/AmoMash/CMPG-323-Project-4-34204792]
 - Project 5 [https://github.com/AmoMash/CMPG-323-Project-5-34204792]
 
 ## Documentation
