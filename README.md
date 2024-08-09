@@ -4,7 +4,7 @@
 - Project 2 [https://classroom.github.com/a/290U_JNB]
 - Project 3 [https://classroom.github.com/a/QXrtxkgI]
 - Project 4 [https://classroom.github.com/a/RIr5Co8]
-- Project 5 [https://classroom.github.com/a/Hd9PNu-x]
+- Project 5 [https://github.com/AmoMash/CMPG-323-Project-5-34204792]
 
 ## Documentation
 
