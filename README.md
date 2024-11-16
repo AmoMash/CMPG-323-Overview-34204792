@@ -2,7 +2,7 @@
 ## Repositories
 - Project 1 [https://github.com/users/AmoMash/projects/2]
 - Project 2 [https://github.com/AmoMash/.NET-Web-API]
-- Project 3 [https://github.com/AmoMash/TelemetryPortal_MVC/blob/main/README.md]
+- Project 3 [https://github.com/AmoMash/TelemetryPortal_MVC]
 - Project 4 [https://github.com/AmoMash/CMPG-323-Project-4-34204792]
 - Project 5 [https://github.com/AmoMash/CMPG-323-Project-5-34204792]
 
