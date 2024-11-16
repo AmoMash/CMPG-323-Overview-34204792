@@ -1,4 +1,4 @@
-# CMPG-323-Overview-34204792
+# Overview
 ## Repositories
 - Project 1 [https://github.com/users/AmoMash/projects/2]
 - Project 2 [https://github.com/AmoMash/.NET-Web-API]
